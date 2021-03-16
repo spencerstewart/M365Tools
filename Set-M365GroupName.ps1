@@ -3,7 +3,7 @@
   Helps rename a M365 Group and all its artifacts
 
  .Description
-  Changes the M365 Group's DisplayName, Alias, PrimarySmtpEmail, and SharePoint site URL.
+  Changes the Microsoft 365 Group's DisplayName, Alias, PrimarySmtpEmail, and SharePoint site URL.
   
  .Parameter GroupIdentity
   Mandatory. Can be group display name or email.
